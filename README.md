@@ -1,4 +1,4 @@
 # Subhra.-Demo
 This is my first Repository
 <br>
-Author-Subhrajeet Bhoi
+Author-Subhrajeet (BHOI)
